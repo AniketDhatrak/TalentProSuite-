@@ -27,5 +27,3 @@
 ![Dashboard](screenshots/clients.png?raw=true "Clients page")
 ![Dashboard](screenshots/employees.png?raw=true "employees page")
 =======
-# TalentProSuite-
->>>>>>> b21d681c24e45711c2544e30bb1eb02ad59875da
