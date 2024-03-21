@@ -81,12 +81,12 @@
 						<div class="col-md-12">
 							<div class="card">
 								<div class="card-body">
-									<h4 class="payslip-title">Payslip for the month of Feb 2019</h4>
+									<h4 class="payslip-title">Payslip for the month of Feb 2023</h4>
 									<div class="row">
 										<div class="col-sm-6 m-b-20">
 											<img src="assets/img/logo2.png" class="inv-logo" alt="">
 											<ul class="list-unstyled mb-0">
-												<li>Dreamguy's Technologies</li>
+												<li>TalentProSuite</li>
 												<li>3864 Quiet Valley Lane,</li>
 												<li>Sherman Oaks, CA, 91403</li>
 											</ul>
@@ -95,7 +95,7 @@
 											<div class="invoice-details">
 												<h3 class="text-uppercase">Payslip #49029</h3>
 												<ul class="list-unstyled">
-													<li>Salary Month: <span>March, 2019</span></li>
+													<li>Salary Month: <span>March, 2023</span></li>
 												</ul>
 											</div>
 										</div>
@@ -106,7 +106,7 @@
 												<li><h5 class="mb-0"><strong>John Doe</strong></h5></li>
 												<li><span>Web Designer</span></li>
 												<li>Employee ID: FT-0009</li>
-												<li>Joining Date: 1 Jan 2013</li>
+												<li>Joining Date: 1 Jan 2024</li>
 											</ul>
 										</div>
 									</div>

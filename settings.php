@@ -55,7 +55,7 @@
 			<!-- /Sidebar -->
 			
 			<!-- Page Wrapper -->
-            <div class="page-wrapper">
+           <div class="page-wrapper">
 			
 				<!-- Page Content -->
                 <div class="content container-fluid">
@@ -77,7 +77,7 @@
 									<div class="col-sm-6">
 										<div class="form-group">
 											<label>Company Name <span class="text-danger">*</span></label>
-											<input class="form-control" type="text" value="Dreamguy's Technologies">
+											<input class="form-control" type="text" value="TalentProSuite">
 										</div>
 									</div>
 									<div class="col-sm-6">

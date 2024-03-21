@@ -734,7 +734,7 @@
 																</h2>
 															</td>
 															<td>danielporter@example.com</td>
-															<td>Dreamguy's Technologies</td>
+															<td>TalentProSuite</td>
 															<td>1 Jan 2013</td>
 															<td>
 																<span class="badge bg-inverse-danger">Admin</span>
@@ -757,7 +757,7 @@
 																</h2>
 															</td>
 															<td>johndoe@example.com</td>
-															<td>Dreamguy's Technologies</td>
+															<td>TalentProSuite</td>
 															<td>1 Jan 2013</td>
 															<td>
 															<span class="badge bg-inverse-success">Employee</span>
@@ -780,7 +780,7 @@
 																</h2>
 															</td>
 															<td>richardmiles@example.com</td>
-															<td>Dreamguy's Technologies</td>
+															<td>TalentProSuite</td>
 															<td>1 Jan 2013</td>
 															<td>
 																<span class="badge bg-inverse-success">Employee</span>
@@ -803,7 +803,7 @@
 																</h2>
 															</td>
 															<td>johnsmith@example.com</td>
-															<td>Dreamguy's Technologies</td>
+															<td>TalentProSuite</td>
 															<td>1 Jan 2013</td>
 															<td>
 																<span class="badge bg-inverse-success">Employee</span>
@@ -826,7 +826,7 @@
 																</h2>
 															</td>
 															<td>mikelitorus@example.com</td>
-															<td>Dreamguy's Technologies</td>
+															<td>TalentProSuite</td>
 															<td>1 Jan 2013</td>
 															<td>
 																<span class="badge bg-inverse-success">Employee</span>
@@ -849,7 +849,7 @@
 																</h2>
 															</td>
 															<td>wilmerdeluna@example.com</td>
-															<td>Dreamguy's Technologies</td>
+															<td>TalentProSuite</td>
 															<td>1 Jan 2013</td>
 															<td>
 																<span class="badge bg-inverse-success">Employee</span>

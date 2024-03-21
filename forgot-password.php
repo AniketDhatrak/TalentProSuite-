@@ -37,7 +37,7 @@
 				
 					<!-- Account Logo -->
 					<div class="account-logo">
-						<a href="index.php"><img src="assets/img/logo2.png" alt="Dreamguy's Technologies"></a>
+						<a href="index.php"><img src="assets/img/logo2.png" alt="TalentProSuite"></a>
 					</div>
 					<!-- /Account Logo -->
 					
