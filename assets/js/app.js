@@ -3,7 +3,7 @@ Author       : Dreamguys
 Template Name: SmartHR - Bootstrap Admin Template
 Version      : 3.4
 */
-
+ 
 $(document).ready(function() {
 	
 	// Variables declarations
